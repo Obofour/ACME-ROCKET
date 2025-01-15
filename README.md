@@ -19,11 +19,11 @@ Acme Rockets is a modern, visually stunning website designed to advertise and se
 **Getting Started**:  
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/username/acme-rockets.git  
+   git clone https://github.com/Obofour/Acme-Rocket.git 
    ```  
 2. **Navigate to the Project Directory**:  
    ```bash  
-   cd acme-rockets  
+   cd Acme-Rocket
    ```  
 3. **Run the Website**:  
    Open the project folder in your code editor and use a live server to preview the site in your browser.  
